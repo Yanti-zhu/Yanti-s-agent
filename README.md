@@ -1,4 +1,4 @@
-# Yanti-s-agent
+##Yanti's AI Agent
 
 Sales Analyst AI Agent (Databricks)
 
@@ -30,6 +30,10 @@ Agent Orchestration – dynamically picks the right function, runs it, and summa
 
 🛠️ Tech Stack
 
+<<<<<<< Updated upstream
+=======
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
 Databricks: Playground, SQL functions, Delta tables
 AI Concepts: Prompt engineering, function calling, agent orchestration
 Data Engineering: Schema design, parameterised queries
@@ -39,3 +43,13 @@ Data Engineering: Schema design, parameterised queries
 Built a working AI agent that answers business sales questions in natural language.
 Demonstrates how AI + SQL functions can deliver reliable insights at scale.
 Serves as a portfolio project showcasing applied skills in Databricks, AI, and product thinking.
+<<<<<<< Updated upstream
+=======
+=======
+Databricks: Playground, SQL functions, Delta tables AI Concepts: Prompt engineering, function calling, agent orchestration Data Engineering: Schema design, parameterised queries
+
+✅ Outcome
+
+Built a working AI agent that answers business sales questions in natural language. Demonstrates how AI + SQL functions can deliver reliable insights at scale. Serves as a portfolio project showcasing applied skills in Databricks, AI, and product thinking.
+>>>>>>> Stashed changes
+>>>>>>> Stashed changes
