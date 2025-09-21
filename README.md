@@ -1,6 +1,7 @@
 # Yanti-s-agent
 
 Sales Analyst AI Agent (Databricks)
+
 📌 Overview
 
 This project is a Sales Analyst AI Agent built in Databricks. It uses natural language queries and translates them into SQL function calls, providing data-driven sales insights such as revenue trends, customer purchases, and top-selling products.
