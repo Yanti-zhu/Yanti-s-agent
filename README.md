@@ -15,13 +15,18 @@ System Prompt Design – guides the agent to prefer function calls over guesses 
 Reusable SQL Functions:
 
 fn_monthly_revenue – monthly revenue trends.
+
 fn_customer_purchases – purchase history for customers.
+
 fn_query_sales – sales data with customer/product details.
+
 fn_top_products_by_year – top-N products by year.
+
 fn_top_months_by_year – highest revenue months per year.
+
 fn_customer_by_year – top customers by revenue.
-Agent Orchestration – dynamically picks the right function, runs it, and summarises results.
-Playground Integration – deployed in Databricks Playground for interactive Q&A.
+
+Agent Orchestration – dynamically picks the right function, runs it, and summarises results. Playground Integration – deployed in Databricks Playground for interactive Q&A.
 
 🛠️ Tech Stack
 
